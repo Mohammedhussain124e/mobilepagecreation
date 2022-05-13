@@ -1,0 +1,98 @@
+html{
+    font-family: 'Lato', sans-serif;
+}
+
+.row{
+    display:flex ;
+    width: 100%;
+ }
+ 
+ .col{
+   width:50% ;
+ 
+ }
+
+
+
+ .row div > h2 {
+    text-align: center;
+    text-transform: uppercase;
+    }
+
+   
+
+.row div > img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .row div > h3{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+
+  .row div > h4{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.row div > h5{
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+color: rgb(0, 0, 0);
+text-align: center;
+border-style: solid;
+text-transform: uppercase;
+}
+
+
+/***Banner style*/
+.Banner{
+width: 50%;
+height: 50%;
+
+
+}
+
+
+
+
+
+
