@@ -1,0 +1,2 @@
+var myinfo = new info();
+            myinfo.showdialog
